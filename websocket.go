@@ -3,11 +3,12 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gorilla/websocket"
 	"log"
 	"net/http"
 	"sync"
 	"sync/atomic"
+
+	"github.com/gorilla/websocket"
 )
 
 var (
