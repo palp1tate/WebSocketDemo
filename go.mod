@@ -1,4 +1,4 @@
-module github.com/palp1tate/WebsocketDemo
+module github.com/palp1tate/WebSocketDemo
 
 go 1.20
 
@@ -8,7 +8,7 @@ require (
 )
 
 require (
-	github.com/bytedance/sonic v1.11.5 // indirect
+	github.com/bytedance/sonic v1.11.6 // indirect
 	github.com/bytedance/sonic/loader v0.1.1 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
 	github.com/cloudwego/iasm v0.2.0 // indirect
