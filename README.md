@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-利用 Gin+WebSocket 实现的在线聊天室 Demo 项目，支持加入/离开聊天室广播、给其他用户发送消息等。
+利用 `Gin`+`WebSocket` 实现的在线聊天室`Demo`项目，支持加入/离开聊天室广播、给其他用户发送消息等。
 
 ## 如何使用
 
@@ -10,7 +10,7 @@
 
 ![image-20240425142642036](https://cdn.jsdelivr.net/gh/palp1tate/ImgPicGo/img/image-20240425142642036.png)
 
-可以看到们的 HTTP 服务已经启动成功并运行在了`8080`端口上。
+可以看到们的`HTTP`服务已经启动成功并运行在了`8080`端口上。
 
 接下来打开接口调试软件`Apifox`，也可以使用[在线的 WebSocket 接口调试网站](https://tool.xroy.net/websocket/)。
 
